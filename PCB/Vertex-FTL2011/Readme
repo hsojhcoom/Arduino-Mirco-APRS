@@ -1,0 +1,5 @@
+This board is designed for the the Vertex-FTL 2011. It is a great radio for APRS, they are cheap and durable.
+It uses an RJ45 for the mic, and the board is designed with an RJ45 for direct connections
+Along with the TX, the board can hand RX as well, two pads are there to connected a 3.5 jack (female). 
+
+The uC is an Arduino Pro Mini either 5v or 3v3 versions.
