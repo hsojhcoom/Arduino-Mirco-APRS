@@ -2,4 +2,7 @@ This board is designed for the the Vertex-FTL 2011. It is a great radio for APRS
 It uses an RJ45 for the mic, and the board is designed with an RJ45 for direct connections
 Along with the TX, the board can hand RX as well, two pads are there to connected a 3.5 jack (female). 
 
-The uC is an Arduino Pro Mini either 5v or 3v3 versions.
+The uC is an Arduino Pro Mini either 5v or 3v3 versions. Along with the uC the board includes a Ublox Neo 6m GPS module.
+
+
+![pcb_eagle_snip](https://cloud.githubusercontent.com/assets/22154008/20126717/6d2a9e18-a605-11e6-9c71-c6956466acda.PNG)
